@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt Text](https://c.tenor.com/oWCUHxT2ja0AAAAC/smt-shin-megami-tensei.gif)
+<p align="center">
+  <img src="[demo.gif](https://c.tenor.com/oWCUHxT2ja0AAAAC/smt-shin-megami-tensei.gif)" alt="animated" />
+</p>
